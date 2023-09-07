@@ -2,7 +2,7 @@
 <h1 align="center"><br>Hi 👋, I'm Mohit Kumar</h1>
 <h3 align="center">Software Engineer Intern</h3>
 
-<br><br><br><img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<br><br><br><img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-0077&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-0077" /> </p>
 
@@ -40,5 +40,4 @@
 </p>
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-0077&show_icons=true&locale=en&layout=compact" alt="mohit-0077" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-0077&show_icons=true&locale=en" alt="mohit-0077" /></p>
