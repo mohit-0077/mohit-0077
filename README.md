@@ -1,6 +1,6 @@
 <!-- [![MasterHead height="200"](https://cdn.wallpapersafari.com/82/76/PlbVW3.gif) ](https://rishavchanda.io) -->
 <h1 align="center"><br>Hi 👋, I'm Mohit Kumar</h1>
-<h3 align="center">Software Engineer Intern</h3>
+<h3 align="center">Computer Science Student</h3>
 
 <br><br><br><img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
